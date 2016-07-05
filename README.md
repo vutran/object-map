@@ -2,7 +2,7 @@
 
 > map function for JavaScript objects.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/uu303wn7eqodcdgn/branch/master?svg=true)](https://ci.appveyor.com/project/vutran/object-map/branch/master)
+[![Travis](https://img.shields.io/travis/vutran/object-map.svg?maxAge=2592000)]()
 
 ## Install
 
