@@ -7,7 +7,7 @@
 ## Install
 
 ````bash
-$ npm install --save-dev @vutran/object-map
+$ npm install --save @vutran/object-map
 ````
 
 ## Usage
