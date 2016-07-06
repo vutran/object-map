@@ -1,6 +1,6 @@
 {
   "name": "@vutran/object-map",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "map function for JavaScript objects",
   "main": "lib/index.js",
   "author": "Vu Tran <vu@vu-tran.com>",
