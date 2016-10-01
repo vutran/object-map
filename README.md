@@ -3,6 +3,7 @@
 > map function for JavaScript objects.
 
 [![Travis](https://img.shields.io/travis/vutran/object-map.svg?maxAge=2592000)]()
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Install
 
